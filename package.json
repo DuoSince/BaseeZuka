@@ -64,10 +64,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HelgaIlham/BaseZuka.git"
+    "url": "git+https://github.com/DuoSince/BaseeZuka.git"
   },
   "bugs": {
-    "url": "https://github.com/HelgaIlham"
+    "url": "https://github.com/DuoSince/BaseeZuka"
   },
-  "homepage": "https://github.com/HelgaIlham/BaseZuka"
+  "homepage": "https://github.com/DuoSince/BaseeZuka"
 }
